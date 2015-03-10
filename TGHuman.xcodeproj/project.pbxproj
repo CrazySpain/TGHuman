@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		963E7E851AAF9193009EC19D /* TGHumanStructure.c in Sources */ = {isa = PBXBuildFile; fileRef = 963E7E831AAF9193009EC19D /* TGHumanStructure.c */; };
+		963E7E881AAF9AD2009EC19D /* TGObject.c in Sources */ = {isa = PBXBuildFile; fileRef = 963E7E861AAF9AD2009EC19D /* TGObject.c */; };
 		96DA3E0E1AA3A78700CD70DE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 96DA3E0D1AA3A78700CD70DE /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,8 @@
 /* Begin PBXFileReference section */
 		963E7E831AAF9193009EC19D /* TGHumanStructure.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = TGHumanStructure.c; sourceTree = "<group>"; };
 		963E7E841AAF9193009EC19D /* TGHumanStructure.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGHumanStructure.h; sourceTree = "<group>"; };
+		963E7E861AAF9AD2009EC19D /* TGObject.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = TGObject.c; sourceTree = "<group>"; };
+		963E7E871AAF9AD2009EC19D /* TGObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGObject.h; sourceTree = "<group>"; };
 		96DA3E0A1AA3A78700CD70DE /* TGHuman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TGHuman; sourceTree = BUILT_PRODUCTS_DIR; };
 		96DA3E0D1AA3A78700CD70DE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,6 +66,8 @@
 				96DA3E0D1AA3A78700CD70DE /* main.c */,
 				963E7E831AAF9193009EC19D /* TGHumanStructure.c */,
 				963E7E841AAF9193009EC19D /* TGHumanStructure.h */,
+				963E7E861AAF9AD2009EC19D /* TGObject.c */,
+				963E7E871AAF9AD2009EC19D /* TGObject.h */,
 			);
 			path = TGHuman;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				963E7E851AAF9193009EC19D /* TGHumanStructure.c in Sources */,
+				963E7E881AAF9AD2009EC19D /* TGObject.c in Sources */,
 				96DA3E0E1AA3A78700CD70DE /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

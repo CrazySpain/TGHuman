@@ -10,6 +10,7 @@
 #define __TGHuman__TGHumanStructure__
 
 #include <stdio.h>
+#include <stdbool.h> 
 
 typedef enum {Female, Male} TGGenderHuman;
 typedef struct TGHuman TGHuman;
@@ -23,6 +24,8 @@ struct TGHuman {
     TGHuman *_father;
     TGHuman *_mother;
     TGHuman *_childrenArray[20];
+    bool _isMarried;
+    
 };
 
 
