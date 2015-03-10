@@ -25,16 +25,6 @@ struct TGHuman {
     TGHuman *_mother;
     TGHuman *_childrenArray[20];
     bool _isMarried;
-    
 };
-
-
-
-
-
-
-
-
-
 
 #endif /* defined(__TGHuman__TGHumanStructure__) */
