@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F6E3CE65-6620-4D39-8051-862800310401</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TGHuman</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B604E6B83AC5507DD9B9FED58B89044C31826EF</key>
+		<string>https://github.com/CrazySpain/TGHuman.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TGHuman.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B604E6B83AC5507DD9B9FED58B89044C31826EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CrazySpain/TGHuman.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B604E6B83AC5507DD9B9FED58B89044C31826EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B604E6B83AC5507DD9B9FED58B89044C31826EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TGHuman</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		963E7E851AAF9193009EC19D /* TGHumanStructure.c in Sources */ = {isa = PBXBuildFile; fileRef = 963E7E831AAF9193009EC19D /* TGHumanStructure.c */; };
 		96DA3E0E1AA3A78700CD70DE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 96DA3E0D1AA3A78700CD70DE /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		963E7E831AAF9193009EC19D /* TGHumanStructure.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = TGHumanStructure.c; sourceTree = "<group>"; };
+		963E7E841AAF9193009EC19D /* TGHumanStructure.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGHumanStructure.h; sourceTree = "<group>"; };
 		96DA3E0A1AA3A78700CD70DE /* TGHuman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TGHuman; sourceTree = BUILT_PRODUCTS_DIR; };
 		96DA3E0D1AA3A78700CD70DE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				96DA3E0D1AA3A78700CD70DE /* main.c */,
+				963E7E831AAF9193009EC19D /* TGHumanStructure.c */,
+				963E7E841AAF9193009EC19D /* TGHumanStructure.h */,
 			);
 			path = TGHuman;
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				963E7E851AAF9193009EC19D /* TGHumanStructure.c in Sources */,
 				96DA3E0E1AA3A78700CD70DE /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -232,6 +238,7 @@
 				96DA3E131AA3A78700CD70DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
