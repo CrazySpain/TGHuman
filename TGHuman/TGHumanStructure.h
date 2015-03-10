@@ -11,4 +11,27 @@
 
 #include <stdio.h>
 
+typedef enum {Female, Male} TGGenderHuman;
+typedef struct TGHuman TGHuman;
+
+struct TGHuman {
+    char *_name;
+    TGGenderHuman _gender;
+    int _age;
+    int _childQuantity;
+    TGHuman *_partner;
+    TGHuman *_father;
+    TGHuman *_mother;
+    TGHuman *_childrenArray[20];
+};
+
+
+
+
+
+
+
+
+
+
 #endif /* defined(__TGHuman__TGHumanStructure__) */
